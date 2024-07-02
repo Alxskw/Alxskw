@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alxskw
 - 👀 I’m interested in gaming and music
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
